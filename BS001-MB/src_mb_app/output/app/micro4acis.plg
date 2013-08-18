@@ -1,0 +1,12 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\WORK\FWH_WORK\4AXIS\4X_Release_6th\20130519\4X_MB\backup\src_mb_app\app\micro4acis.uvproj
+Project File Date:  05/19/2013
+
+<h2>Output:</h2>
+Clean started: Project: 'micro4acis'
+   deleting intermediate output files for target 'micro4acis'
+   deleting intermediate output files for target 'micro4acis_dual'

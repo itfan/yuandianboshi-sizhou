@@ -1,0 +1,65 @@
+*** Creating Trace Output File '..\output\app\micro4acis.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"..\output\app\core_cm3.o"'
+### List of Objects: adding '"..\output\app\misc.o"'
+### List of Objects: adding '"..\output\app\startup_stm32f10x_md.o"'
+### List of Objects: adding '"..\output\app\system_stm32f10x.o"'
+### List of Objects: adding '"..\output\app\stm32f10x_gpio.o"'
+### List of Objects: adding '"..\output\app\stm32f10x_rcc.o"'
+### List of Objects: adding '"..\output\app\stm32f10x_spi.o"'
+### List of Objects: adding '"..\output\app\stm32f10x_i2c.o"'
+### List of Objects: adding '"..\output\app\stm32f10x_adc.o"'
+### List of Objects: adding '"..\output\app\stm32f10x_dma.o"'
+### List of Objects: adding '"..\output\app\stm32f10x_tim.o"'
+### List of Objects: adding '"..\output\app\stm32f10x_flash.o"'
+### List of Objects: adding '"..\output\app\stm32f10x_usart.o"'
+### List of Objects: adding '"..\output\app\led.o"'
+### List of Objects: adding '"..\output\app\bsp.o"'
+### List of Objects: adding '"..\output\app\time.o"'
+### List of Objects: adding '"..\output\app\i2c.o"'
+### List of Objects: adding '"..\output\app\mpu6050.o"'
+### List of Objects: adding '"..\output\app\i2c_1.o"'
+### List of Objects: adding '"..\output\app\battery.o"'
+### List of Objects: adding '"..\output\app\motor.o"'
+### List of Objects: adding '"..\output\app\hmc5883.o"'
+### List of Objects: adding '"..\output\app\flash.o"'
+### List of Objects: adding '"..\output\app\main.o"'
+### List of Objects: adding '"..\output\app\ring_buffer.o"'
+### List of Objects: adding '"..\output\app\uart_data_process.o"'
+### List of Objects: adding '"..\output\app\communication.o"'
+### List of Objects: adding '"..\output\app\transmit.o"'
+### List of Objects: adding '"..\output\app\receive.o"'
+### List of Objects: adding '"..\output\app\cmd.o"'
+### List of Objects: adding '"..\output\app\other.o"'
+### List of Objects: adding '"..\output\app\quaternion.o"'
+### List of Objects: adding '"..\output\app\sensor.o"'
+### List of Objects: adding '"..\output\app\attitude.o"'
+### List of Objects: adding '"..\output\app\accfilter.o"'
+### List of Objects: adding '"..\output\app\gyrfilter.o"'
+### List of Objects: adding '"..\output\app\magfilter.o"'
+### List of Objects: adding '"..\output\app\mix.o"'
+### List of Objects: adding '"..\output\app\control.o"'
+### List of Objects: adding '"..\output\app\pid.o"'
+### List of Objects: adding '"..\output\app\exception.o"'
+### List of Objects: adding '"..\output\app\status.o"'
+### List of Objects: adding '"..\output\app\param.o"'
+### List of Objects: adding '"..\output\app\rf.o"'
+### List of Objects: adding '"..\output\app\rf_hal.o"'
+### List of Objects: adding '"..\output\app\uart.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "..\output\app\core_cm3.o" "..\output\app\misc.o" "..\output\app\startup_stm32f10x_md.o" "..\output\app\system_stm32f10x.o" "..\output\app\stm32f10x_gpio.o" "..\output\app\stm32f10x_rcc.o" "..\output\app\stm32f10x_spi.o" "..\output\app\stm32f10x_i2c.o" "..\output\app\stm32f10x_adc.o" "..\output\app\stm32f10x_dma.o" "..\output\app\stm32f10x_tim.o" "..\output\app\stm32f10x_flash.o" "..\output\app\stm32f10x_usart.o" "..\output\app\led.o" "..\output\app\bsp.o" "..\output\app\time.o" "..\output\app\i2c.o" "..\output\app\mpu6050.o" "..\output\app\i2c_1.o" "..\output\app\battery.o" "..\output\app\motor.o" "..\output\app\hmc5883.o" "..\output\app\flash.o" "..\output\app\main.o" "..\output\app\ring_buffer.o" "..\output\app\uart_data_process.o" "..\output\app\communication.o" "..\output\app\transmit.o" "..\output\app\receive.o" "..\output\app\cmd.o" "..\output\app\other.o" "..\output\app\quaternion.o" "..\output\app\sensor.o" "..\output\app\attitude.o" "..\output\app\accfilter.o" "..\output\app\gyrfilter.o" "..\output\app\magfilter.o" "..\output\app\mix.o" "..\output\app\control.o" "..\output\app\pid.o" "..\output\app\exception.o" "..\output\app\status.o" "..\output\app\param.o" "..\output\app\rf.o" "..\output\app\rf_hal.o" "..\output\app\uart.o" 
+--strict --scatter "..\output\app\micro4acis.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list "..\output\app\micro4acis.map" -o ..\output\app\micro4acis.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '..\output\app\micro4acis.axf'
+### ADS-LD Command File: '..\output\app\micro4acis.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '..\output\app\micro4acis.lnp', Handle=0x00000384
+### Writing '.lnp' file
+### ADS-LD Command file '..\output\app\micro4acis.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
